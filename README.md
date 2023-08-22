@@ -1,6 +1,6 @@
-# UX Portfolio
+# Tim's UX Portfolio
 
-About me...
+My name is Tim Lyons. I am a Senior in pursuit of my Bachelor of Science at California State University Chico. This page will detail my adventures as I eXperience User eXperience. I look forward to integrating this into my workflow, not only as a UX specialist but as a programmer. I hope you join me!
 
 ## UX Team Project
 
