@@ -1,5 +1,5 @@
 # Virtual Robotic Simulation Controls
-## by Tim Lyons 10/13/2023
+## by Tim Lyons 12/7/2023
 I work with Turtlebot3s and ROS hardware which are both Robotis Products for the Robotics and Machine Intelligence class. One of the major robotics problems is localization, finding out your position in space. We were learning a technique called SLAM (Simultaneous Localization and Mapping), where we map out an area and the software localizes itself to get the best approximation of where it is in a space given its surroundings. We can simulate this by running a 'world' in Gazebo, and what the robot sees in the SLAM window. My goal is to complete the lab as quickly as possible with quality work so I could have an extended lunch. 
 
 ![Image 1](../assets/3window.png)
