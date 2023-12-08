@@ -9,3 +9,5 @@ Coming soon.
 ## UX Journal
 
 [Read about my experience with ROS Robots](j01/)
+
+[Read about my Updated experience with ROS Robots](j02/)
